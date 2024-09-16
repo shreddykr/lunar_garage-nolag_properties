@@ -9,3 +9,5 @@ Thank you for downloading. Please follow the install instructions below. I DID N
 4) Replace the files included in the lunar_garage resource
 
 5) Place the lunar_garage.lua file in the Garage folder (NoLag_Properties:Custom:Garage)
+
+NO SUPPORT WITH THIS UPDATE
